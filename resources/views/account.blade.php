@@ -199,14 +199,14 @@
                     <img src="{{ asset('images/gambar1.jpg') }}" alt="Dokter Anjing 1" class="jadwal-image">
                     <div class="jadwal-content">
                         <h3><strong>Dr. Aftril</strong></h3>
-                        <p class="jadwal-description">Kamis - Sabtu</p>
+                        <p class="jadwal-description">Kamis  -  Sabtu</p>
                     </div>
                 </li>
                 <li class="jadwal-item">
                     <img src="{{ asset('images/gambar2.jpg') }}" alt="Dokter Anjing 2" class="jadwal-image">
                     <div class="jadwal-content">
                         <h3><strong>Dr. Via</strong></h3>
-                        <p class="jadwal-description">Senin - Rabu</p>
+                        <p class="jadwal-description">Senin  -  Rabu</p>
                     </div>
             </ul>
         </div>
