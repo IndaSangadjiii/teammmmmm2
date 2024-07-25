@@ -28,7 +28,7 @@
     </main>
     <footer>
         <div class="footer-content">
-            <p>&copy; 2024 Klinik Hewan Peliharaan. Semua Hak Dilindungi.</p>
+            <p>&copy; 2024 - Klinik Hewan Peliharaan. Semua Hak Dilindungi.</p>
         </div>
     </footer>
 </body>
